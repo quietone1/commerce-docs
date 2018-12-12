@@ -7,4 +7,6 @@ taxonomy:
 User guide
 ============
 
-This section will act as an end-users guide. This is what evaluators and shop managers will read to understand how to use Drupal Commerce. This is where digital agencies can send customers and help build documentation for Drupal Commerce implementation.
+This section explains how to use Drupal Commerce. It is suitable for shop managers, evaluators or anyone wanting to understand how to use Drupal Commerce. 
+
+This is where digital agencies can send customers and help build documentation for Drupal Commerce.
